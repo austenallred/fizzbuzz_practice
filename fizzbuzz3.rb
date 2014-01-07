@@ -7,5 +7,5 @@ elsif x % 5 == 0
 elsif x % 3 == 0
   puts "Buzz"
 else
-  puts i
+  puts x
 end    
